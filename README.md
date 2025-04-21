@@ -141,7 +141,7 @@ HLT
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/7e3c7307-f2d9-46b9-a409-8ab0a626b33e)
+![image](https://github.com/user-attachments/assets/668ba258-03af-4d7a-b52a-f3ee617b58fa)
 
 ## OR Operation 
 
