@@ -130,6 +130,60 @@ HLT
 
 ![Screenshot 2025-03-07 140555](https://github.com/user-attachments/assets/4376e030-cd7d-4c40-919f-e7046227ae04)
 
+## AND Operation 
+
+```
+mov AL,75H
+mov BL,62H
+and AL,BL
+HLT
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/7e3c7307-f2d9-46b9-a409-8ab0a626b33e)
+
+## OR Operation 
+
+```
+mov AL,75H
+mov BL,62H
+or AL,BL
+HLT
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/df2cd211-6b5f-4975-a196-fe8d99c9af60)
+
+
+## XOR Operation 
+
+```
+mov AL,75H
+mov BL,62H
+xor AL,BL
+HLT
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/9567da98-0868-4619-ae10-0f6c3544597d)
+
+
+## NOT Operation 
+
+```
+mov AL,75H
+mov BL,62H
+not AL
+HLT
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/58970344-8541-47a6-94ca-09308eda5161)
+
 ## Result :
  
 Thus, the ALP on fundamental arithmetic and logical operations has been successfully written and executed.
